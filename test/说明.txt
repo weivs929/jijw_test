@@ -2,4 +2,4 @@
 当前库为github的库文件 
 用户名为weiv929
 添加第2次提交内容
-尝试push到bitbucket库上面
+尝试push到bitbucket库上面娴嬭瘯浣跨敤鐨刧it搴撴祴璇昰it鍛戒护鎻愪氦鑷砱ithub
