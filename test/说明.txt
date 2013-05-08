@@ -3,3 +3,4 @@
 用户名为weiv929
 添加第2次提交内容
 尝试push到bitbucket库上面娴嬭瘯浣跨敤鐨刧it搴撴祴璇昰it鍛戒护鎻愪氦鑷砱ithub
+测试在本地master推送至远程master分支，使用eclipse
